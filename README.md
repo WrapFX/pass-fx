@@ -12,3 +12,6 @@ PassFX is very easy to use. All you need to do is navigate to the parent directo
 It will then generate a password of [len] and will output it to a file named '[name].txt' in the same directory.
 
 **Note:** If no arguments are provided (IE: You just double-clicked the executable), it will generate a 32 character long password to a file named 'password.txt'.
+
+**Supported characters:**
+ ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "!", "@", "#", "$", "%", "&"]
