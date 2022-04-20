@@ -1,2 +1,2 @@
 # pass-fx
-Simple CLI password generator written in Rust.
+Simple CLI password generator written in Rust 🦀.
